@@ -1,0 +1,13 @@
+{
+    "name": "zup",
+    "version": "0.1.0",
+    "description": "⚡️ Blazingly fast Zig package registry",
+    "dependencies": {
+        "zig-clap": "0.7.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yourusername/zup"
+    },
+    "license": "Unlicense"
+}
